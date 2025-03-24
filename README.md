@@ -1,7 +1,9 @@
-Proyecto C
+# Proyecto C
 
+## Descripción:
 Conversor de monedas, convierte una cantidad definida por el usuario ya sea en quetzales, dólares o euros entre estas mismas monedas.
 
+## Prerrequisitos:
 Instalar VisualStudioCode
 Instalar extensión C/C++
 
