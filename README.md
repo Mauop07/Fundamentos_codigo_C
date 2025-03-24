@@ -16,5 +16,7 @@ Nota:
 La conversión obtenida de este código no representa el valor actual de las monedas.
 
 Nombre de autor: Mauricio José Orellana Pérez
+
 Correo: 25000174@galileo.edu
+
 Carnet: 25000174
